@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+.div_class1{
+    position:relative;
+    bottom: -20%;
+    left:38%;
+    border:3px solid black;
+    width:300px;
+    border-radius: 20px;
+    padding:20px;
+    text-align: center;
+    background-color: aqua;
+}
+.div_inferiore{
+    margin:10px;
+}
+.input{
+    border-radius:10px;
+    border:2px solid black;
+}
